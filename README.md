@@ -36,3 +36,4 @@ By mapping out state synchronization vulnerabilities, silent data corruptions, a
 
 ### License
 Distributed under the **MIT License**. See `LICENSE` for more information.
+* **Live Tool / Project:** [Agent Bottleneck Checker](https://agent-bottleneck-checker.netlify.app)
